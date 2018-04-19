@@ -135,3 +135,81 @@ body{
     width: 1100px; 
     margin: 0px  auto;
 }
+
+#comodo{
+    width: 100%;
+    background-color: #192024;
+    margin-top: 80px;
+    padding: 50px 0px;
+
+}
+#comodo .text-contain{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+#comodo .text-contain h1{
+    color: white;
+    letter-spacing: 4px;
+}
+
+#comodo .text-contain h3{
+    font-size: 24px;
+    color: darkgray;
+}
+#comodo .img-item{
+    width: 45%; 
+    float: left;
+    margin: 0px 23px; 
+}
+#comodo .img-item img{
+    border-radius: 10px;
+    width: 100%;
+}
+#comodo .img-item p{
+    color: whitesmoke;
+    font-size: 15px;
+    
+}
+#comodo .img-item #btn{
+    display: block;
+    border: none;
+    border: 1px solid darkgray;
+    background: transparent;
+    color: whitesmoke;
+    height: 40px; 
+    width:180px;
+    border-radius: 5px;
+    margin: 30px auto;
+}
+#mollis .mollisleft {
+    width: 55%;
+    margin-left: 50px;
+    float: left;
+}
+#mollis .mollisleft img{
+    width: 100%;
+    border-radius: 10px;
+}
+#mollis .mollisleft h3{
+    float: left;
+    font-size: 20px;
+    letter-spacing: 3px;
+    margin: 50px 0px 30px 0px;
+    color: #666f77;
+}
+#mollis .mollisleft p{
+    text-align: left;
+}
+#mollis .mollisright{
+    float:right;
+    width: 300px;
+}
+#mollis .mollisright h3{
+    float: left;
+    margin: 50px 0px 30px 0px;
+}
+#mollis .mollisright p{
+    text-align: left;
+}
